@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(154, 219, 219);
+    text-align: center;
+}
+.player_login {
+    background-color: rgb(238, 240, 238);
+    width: 30%;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px 10px 50px;
+    border-radius: 25px;
+}
+button {
+    background-color: teal;
+    color: white;
+    width: 25%;
+    padding: 10px 0px;
+    border-radius: 999px;
+    font-size: 30px;
+}
+input {
+    width: 90%;
+    height: 30px;
+    font-size: 15px;
+}
